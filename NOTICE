@@ -1,0 +1,27 @@
+opencode-canvas-design-skill
+Copyright (c) 2026 Máximo Gomez Pessoa (MaxiGP0)
+
+This repository contains an installer only. It does not redistribute the
+canvas-design skill or its fonts.
+
+At install time, the installer downloads the skill from the official
+anthropics/skills repository:
+
+  https://github.com/anthropics/skills
+
+The skill lives at:
+
+  https://github.com/anthropics/skills/tree/main/skills/canvas-design
+
+The skill content is licensed under the Apache License 2.0,
+Copyright Anthropic. Complete terms are in the upstream LICENSE.txt:
+
+  https://github.com/anthropics/skills/blob/main/skills/canvas-design/LICENSE.txt
+
+The fonts bundled with the skill are distributed with their own license
+files inside canvas-fonts/ (the OFL files shipped upstream). See those
+files for the terms that apply to each font.
+
+This project is unofficial and is not affiliated with Anthropic. "Anthropic",
+"Claude", and the Claude logo are trademarks of Anthropic, PBC. The installer
+is provided as-is, without warranty of any kind.
